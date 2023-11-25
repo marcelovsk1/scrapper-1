@@ -7,6 +7,10 @@ content = response.content
 
 site = BeautifulSoup(content, 'html.parser')
 
+#HTML
 postNews = site.find('div', attrs={'class': 'feed-post-body'})
 
-print(postNews.prettify())
+#Title
+title = postNews.find('a', attrs={'class': 'feed-post-link'})
+
+print(title.text)
