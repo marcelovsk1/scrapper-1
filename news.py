@@ -1,10 +1,12 @@
 import requests
 from bs4 import BeautifulSoup
 
-response = requests.get('https://g1.globo.com/')
+response = requests.get('https://ge.globo.com/')
 
 content = response.content
 
 site = BeautifulSoup(content, 'html.parser')
 
-print(site.prettify())
+postNews = site.find('div', attrs={'class': 'feed-post-body'})
+
+print(postNews.prettify())
