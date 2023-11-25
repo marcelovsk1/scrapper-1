@@ -3,4 +3,8 @@ from bs4 import BeautifulSoup
 
 response = requests.get('https://g1.globo.com/')
 
-print(response.content)
+content = response.content
+
+site = BeautifulSoup(content, 'html.parser')
+
+print(site.prettify())
