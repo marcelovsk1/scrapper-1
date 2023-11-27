@@ -62,7 +62,16 @@ data = [
       "date": "Annually in December",
       "website": "https://www.collectifcreatifmtl.com/",
       "imageURL": "http://www.go-montreal.com/images/attractions/listings/festivals-events/collectif-creatif.jpg"
-    }
+    },
+
+    {
+      "title": "Jean-Talon Christmas Market",
+      "description": "Merchants of the Jean-Talon Market suggests relaxation for a warm holiday season with the family.",
+      "date": "Annually in December",
+      "website": "https://noelmontreal.ca/",
+      "imageURL": "http://www.go-montreal.com/images/attractions/listings/festivals-events/jean-talon-christmas-market.jpg"
+    },
+
 ]
 
 json_data = json.dumps(data, indent=2)
