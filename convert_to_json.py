@@ -46,6 +46,14 @@ data = [
       "date": "Annually in December",
       "website": "https://exporail.org/en/activities/railway-christmas/",
       "imageURL": "http://www.go-montreal.com/images/attractions/listings/festivals-events/railway-christmas.jpg"
+    },
+
+    {
+      "title": "Holidays on the Point",
+      "description": "Come to Place Royale in the heart of Old Montreal to set your sights on our seasonal decor that conjures up the coziness of ski chalets while paying tribute to winter sports. Take a break from the holiday hubbub and get comfy on our stools surrounded by light-adorned trees. The only thing missing may be a mug of hot chocolate!",
+      "date": "Annually in December",
+      "website": "https://pacmusee.qc.ca/en/calendar/collection/holidays-on-the-point-2022/",
+      "imageURL": "http://www.go-montreal.com/images/attractions/listings/festivals-events/holidays-on-the-point.jpg"
     }
 ]
 
