@@ -72,6 +72,13 @@ data = [
       "imageURL": "http://www.go-montreal.com/images/attractions/listings/festivals-events/jean-talon-christmas-market.jpg"
     },
 
+    {
+      "title": "Illumi",
+      "description": "Illumi is a magical, captivating and extraordinary nocturnal outdoor journey created from thousands of monumental light sculptures.",
+      "date": "Annually in December",
+      "website": "https://illumi.com/en/",
+      "imageURL": "http://www.go-montreal.com/images/attractions/listings/festivals-events/illumi.jpg"
+    }
 ]
 
 json_data = json.dumps(data, indent=2)
