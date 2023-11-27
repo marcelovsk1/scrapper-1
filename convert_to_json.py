@@ -154,6 +154,14 @@ data = [
     },
 
      {
+      "title": "Merry Montréal",
+      "description": "Experience the festivities of the holiday season in a unique and magical setting filled with beautiful attractions and a multitude of restaurants, shops, and specialty boutiques.",
+      "date": "Annually in December",
+      "website": "https://montrealenfetes.com/",
+      "imageURL": "http://www.go-montreal.com/images/attractions/listings/festivals-events/merry-montreal.jpg"
+    },
+
+     {
       "title": "",
       "description": "",
       "date": "Annually in December",
@@ -161,7 +169,23 @@ data = [
       "imageURL": ""
     },
 
-     {
+    {
+      "title": "New Year's Eve Party",
+      "description": "Get down and warm yourself up with the whole family at the hottest party of the season! At 7 p.m., the Old Port and Place Jacques-Cartier will come alive with Montreal’s biggest New Year’s Eve party. At the stroke of midnight, marvel at the fireworks and dance the night away until 2 AM to the sounds of our DJ.",
+      "date": "Annually in December",
+      "website": "https://montrealenfetes.com/",
+      "imageURL": "http://www.go-montreal.com/images/attractions/listings/festivals-events/new-years-eve-party.jpg"
+    },
+
+    {
+      "title": "Nutcracker Market",
+      "description": "Annually at the end of November - The Nutcracker Market offers values such as originality and rarity as far as the selection of merchants, products and services, with a magical setting inspiring a sense of wonder so typical of the holiday spirit. Exhibitor categories include, among others, jewellery, dinnerware, local products, interior and outdoor décor items, body-care products and toys.",
+      "date": "Annually in December",
+      "website": "https://www.marchecassenoisette.com/en/",
+      "imageURL": ""
+    },
+
+    {
       "title": "",
       "description": "",
       "date": "Annually in December",
