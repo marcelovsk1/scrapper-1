@@ -114,11 +114,11 @@ data = [
     },
 
     {
-      "title": "",
-      "description": "",
+      "title": "Salon des métiers d'art du Québec (SMAQ)",
+      "description": "The SMAQ is 11 days to discover nearly 190 outstanding exhibiting craftsmen offering exceptional objects that carry stories. Focus on this flagship event and its 66th edition which will definitely be festive, urban and eco-responsible.",
       "date": "Annually in December",
-      "website": "",
-      "imageURL": ""
+      "website": "https://festivalnoel.com/",
+      "imageURL": "http://www.go-montreal.com/images/attractions/listings/festivals-events/smaq.jpg"
     },
 
     {
@@ -130,6 +130,22 @@ data = [
     },
 
      {
+      "title": "Nutcracker",
+      "description": "The traditional Christmas tale of Clara's journey to the Land of Snow and the Kingdom of Sweets, but given a fresh appeal with multimedia projections. See the magic unfold as over 80 young dancers join 40 members of the company's corps de ballet on stage.",
+      "date": "Annually in December",
+      "website": "https://grandsballets.com/en/performances/detail/nutcracker/",
+      "imageURL": "http://www.go-montreal.com/images/attractions/listings/festivals-events/nutcracker.jpg"
+    },
+
+    {
+      "title": "",
+      "description": "",
+      "date": "Annually in December",
+      "website": "",
+      "imageURL": ""
+    },
+
+    {
       "title": "",
       "description": "",
       "date": "Annually in December",
