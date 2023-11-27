@@ -182,6 +182,38 @@ data = [
       "description": "Annually at the end of November - The Nutcracker Market offers values such as originality and rarity as far as the selection of merchants, products and services, with a magical setting inspiring a sense of wonder so typical of the holiday spirit. Exhibitor categories include, among others, jewellery, dinnerware, local products, interior and outdoor décor items, body-care products and toys.",
       "date": "Annually in December",
       "website": "https://www.marchecassenoisette.com/en/",
+      "imageURL": "http://www.go-montreal.com/images/attractions/listings/festivals-events/nutcracker-market.jpg"
+    },
+
+    {
+      "title": "Salon du jeu de société de Montréal",
+      "description": "The Salon du jeu de société de Montréal is a board game convention for beginners and experienced gamers. Try the latest games releases, talk to designers and play their prototypes, include new games to your collection and much more! The SJSM is an event to discover the amazing world of board games with your family or friends!",
+      "date": "Annually in December",
+      "website": "",
+      "imageURL": ""
+    },
+
+    {
+      "title": "",
+      "description": "",
+      "date": "Annually in December",
+      "website": "https://www.salonjdsmtl.ca/",
+      "imageURL": "http://www.go-montreal.com/images/attractions/listings/festivals-events/salon-du-jeu-de-societe.jpg"
+    },
+
+    {
+      "title": "Who Is the Real Santa Claus?",
+      "description": "December is the time to meet Santa Clauses from around the world, accompanied by our interpreter-guides. During the month of December, young and old alike are invited to come see Babushka, Melchior, Black Peter and Santa Claus.",
+      "date": "Annually in December",
+      "website": "https://pacmusee.qc.ca/en/calendar/event/who-is-the-real-santa-claus/",
+      "imageURL": "http://www.go-montreal.com/images/attractions/listings/festivals-events/who-is-the-real-santa-claus.jpg"
+    },
+
+    {
+      "title": "",
+      "description": "",
+      "date": "Annually in December",
+      "website": "",
       "imageURL": ""
     },
 
@@ -192,6 +224,7 @@ data = [
       "website": "",
       "imageURL": ""
     },
+
 ]
 
 json_data = json.dumps(data, indent=2)
