@@ -78,7 +78,15 @@ data = [
       "date": "Annually in December",
       "website": "https://illumi.com/en/",
       "imageURL": "http://www.go-montreal.com/images/attractions/listings/festivals-events/illumi.jpg"
-    }
+    },
+
+    {
+      "title": "International Digital Art Biennial"
+      "description": "This exhibition offers a reflection on the transition that we must accomplish in this post-pandemic era disrupted both geopolitically and climatically. By taking a look at our time while trying to anticipate the consequences of our past and future decisions, these artists are in a way pathfinders, messengers.",
+      "date": "Annually in December",
+      "website": "https://www.elektramontreal.ca/biennale2022",
+      "imageURL": "http://www.go-montreal.com/images/attractions/listings/festivals-events/bian.jpg"
+    },
 ]
 
 json_data = json.dumps(data, indent=2)
