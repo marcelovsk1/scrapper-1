@@ -146,6 +146,22 @@ data = [
     },
 
     {
+      "title": "New Year's Eve Party",
+      "description": "Experience the festivities of the holiday season in a unique and magical setting filled with beautiful attractions and a multitude of restaurants, shops, and specialty boutiques.",
+      "date": "Annually in December",
+      "website": "",
+      "imageURL": ""
+    },
+
+     {
+      "title": "",
+      "description": "",
+      "date": "Annually in December",
+      "website": "",
+      "imageURL": ""
+    },
+
+     {
       "title": "",
       "description": "",
       "date": "Annually in December",
