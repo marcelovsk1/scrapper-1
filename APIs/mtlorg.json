@@ -11,7 +11,6 @@
     "description": "For its 19th edition, the SOUK, a major avant-garde and contemporary Montréal design showcase, makes a fresh start in a former textile factory at the heart of Mile-Ex’s Architects District. From November 29 to December 3, 2023, the crème de la crème of Montréal’s up-and-coming designers will come together in a new setting to showcase their wares in true SOUK fashion. In collaboration with Sid Lee Architecture, the SOUK will transform the floors of this vacant building into a raw, minimalist backdrop to artisanal ingenuity. This impressive project looks to promote local design and foster exchanges while honouring the history of the site and its industrial past.",
     "date": "November 29 to December 3, 2023",
     "place": "7070 Saint-Urbain Street",
-    "Admission": "$15 for adults, $10 for students and seniors, free for children under 17 years of age.",
     "website": "https://www.mtl.org/en/experience/souk",
     "imageURL": "https://www.mtl.org/sites/default/files/styles/playlist_banner_big/public/2021-10/46325.jpg?itok=K-M-TJFN"
   },
@@ -32,11 +31,19 @@
     "imageURL": "https://www.mtl.org/sites/default/files/styles/paragraph_image_text/public/2020-08/45520.jpg?itok=U3gbMMUz"
   },
   {
-    "title": "",
-    "description": "",
-    "date": "",
-    "place": "",
-    "website": "",
-    "imageURL": ""
+    "title": "Stars shine on fun-to-watch 2023-’24 Habs team",
+    "description": "Montréal is hockey, and when the city’s professional, National Hockey League (NHL) team the Montréal Canadiens are playing at home, there is a palpable energy that can be felt throughout the city. And excitement is high in 2023-’24 for the 24-time Stanley Cup champions, who have a few new faces on the ice, many of whom are homegrown rising stars.",
+    "date": "November-December 2023",
+    "place": "Centre Bell",
+    "website": "https://www.mtl.org/en/experience/montreal-canadiens-hockey",
+    "imageURL": "https://www.mtl.org/sites/default/files/styles/playlist_banner_big/public/2020-02/41265_1.jpg?itok=QzKzX7TI"
+  },
+  {
+    "title": "Miracle Montréal: raise a glass to the holidays!",
+    "description": "Miracle Montréal, everyone’s fav holiday pop-up bar, is back for a second edition to help you fill up on Christmas spirit(s). Enjoy your Christmas-themed tipple of choice in a fabulously decorated setting on Fleury Street from November 15 to December 26, 2023.",
+    "date": "November 15 to December 26, 2023",
+    "place": "Fleury Street",
+    "website": "https://www.mtl.org/en/experience/miracle-montreal",
+    "imageURL": "https://www.mtl.org/sites/default/files/styles/playlist_banner_big/public/2023-11/Miracle%25202022-1_0.jpg?itok=P3-BOr7u"
   }
 ]
