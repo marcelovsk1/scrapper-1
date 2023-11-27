@@ -22,6 +22,13 @@ data = [
       "date": "ANNUALLY IN DECEMBER",
       "website": "https://festivalbachmontreal.com/",
       "imageURL": "http://www.go-montreal.com/images/attractions/listings/festivals-events/montreal-bach-festival.jpg"
+    },
+    {
+      "title": "Le Grand Marché de Noël de Montréal",
+      "description": "Inspired by the charming Christmas traditions from around the world, this event offers a Christmas market and village with many free outdoor activities. Imagine a fairy-tale setting in the heart of Quartier Latin in downtown Montreal, bustling with life day and night, traditional log cabins, illuminated christmas trees, tasty delights and much more.",
+      "date": "Annually in December",
+      "website": "https://noelmontreal.ca/",
+      "imageURL": "http://www.go-montreal.com/images/attractions/listings/festivals-events/le-grand-marche-de-noel-de-montreal.jpg"
     }
 ]
 
