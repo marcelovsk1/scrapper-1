@@ -10,10 +10,10 @@ data = [
 
     {
       "title": "Birth of Planet Earth",
-        "description": "How did Earth become a living planet as a result of the violent birth of our solar system?",
-        "date": "ANNUALLY IN DECEMBER",
-        "website": "https://espacepourlavie.ca/en/planetarium",
-        "imageURL": "http://www.go-montreal.com/images/attractions/listings/festivals-events/birth-of-planet-earth.jpg"
+      "description": "How did Earth become a living planet as a result of the violent birth of our solar system?",
+      "date": "ANNUALLY IN DECEMBER",
+      "website": "https://espacepourlavie.ca/en/planetarium",
+      "imageURL": "http://www.go-montreal.com/images/attractions/listings/festivals-events/birth-of-planet-earth.jpg"
     },
 
     {
