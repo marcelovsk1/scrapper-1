@@ -138,11 +138,11 @@ data = [
     },
 
     {
-      "title": "",
-      "description": "",
+      "title": "Merry Montréal",
+      "description": "Experience the festivities of the holiday season in a unique and magical setting filled with beautiful attractions and a multitude of restaurants, shops, and specialty boutiques.",
       "date": "Annually in December",
-      "website": "",
-      "imageURL": ""
+      "website": "https://montrealenfetes.com/",
+      "imageURL": "http://www.go-montreal.com/images/attractions/listings/festivals-events/merry-montreal.jpg"
     },
 
     {
