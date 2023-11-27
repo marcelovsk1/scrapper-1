@@ -41,7 +41,11 @@ data = [
     },
 
     {
-
+      "title": "Railway Christmas",
+      "description": "Exporail, the Canadian Railway Museum will transport its visitors into the Magic of Christmas. Many vehicles will be decorated and illuminated in the Grand Gallery, activities will be offered and Santa will meet the visitors! Railway Christmas is a must-see event for the whole family!",
+      "date": "Annually in December",
+      "website": "https://exporail.org/en/activities/railway-christmas/",
+      "imageURL": "http://www.go-montreal.com/images/attractions/listings/festivals-events/railway-christmas.jpg"
     }
 ]
 
