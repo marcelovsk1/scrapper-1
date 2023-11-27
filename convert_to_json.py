@@ -54,6 +54,14 @@ data = [
       "date": "Annually in December",
       "website": "https://pacmusee.qc.ca/en/calendar/collection/holidays-on-the-point-2022/",
       "imageURL": "http://www.go-montreal.com/images/attractions/listings/festivals-events/holidays-on-the-point.jpg"
+    },
+
+    {
+      "title": "Holiday Market - Collectif Créatif Montréal",
+      "description": "The perfect occasion to shop local, support your makers and get one of a kind presents for this Holiday season!",
+      "date": "Annually in December",
+      "website": "https://www.collectifcreatifmtl.com/",
+      "imageURL": "http://www.go-montreal.com/images/attractions/listings/festivals-events/collectif-creatif.jpg"
     }
 ]
 
