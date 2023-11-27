@@ -29,6 +29,19 @@ data = [
       "date": "Annually in December",
       "website": "https://noelmontreal.ca/",
       "imageURL": "http://www.go-montreal.com/images/attractions/listings/festivals-events/le-grand-marche-de-noel-de-montreal.jpg"
+    },
+
+    {
+     "title": "Montreal's Christmas Village",
+      "description": "Take part in the cultural, festive and culinary activities that will take place in Montreal during the holiday season and celebrate in total safety, the delicious northern charm of the city.",
+      "date": "Annually in December",
+      "website": "https://noelmontreal.ca/en/montreal-christmas-markets/",
+      "imageURL": "http://www.go-montreal.com/images/attractions/listings/festivals-events/christmas-village.jpg"
+
+    },
+
+    {
+
     }
 ]
 
