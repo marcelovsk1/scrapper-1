@@ -210,19 +210,18 @@ data = [
     },
 
     {
-      "title": "",
-      "description": "",
-      "date": "Annually in December",
-      "website": "",
-      "imageURL": ""
+      "title": "Fire on Ice",
+      "description": "The Holidays start with a bang when these musical fireworks light up the sky over the the Old Port. Magical, spectacular fireworks -a unique, innovative show every time- burst over the St. Lawrence to create a thoroughly original urban winter experience.",
+      "date": "Annttps://www.oldportofmontreal.com/",
+      "imageURL": "http://www.go-montreal.com/images/attractions/listings/festivals-events/fire-on-ice.jpg"
     },
 
     {
-      "title": "",
-      "description": "",
+      "title": "Skating Events at the Old Port",
+      "description": "Being festive is the Old Port’s guiding principle, and no efforts are spared to live up to it. Each season brings new and exclusive events, festivals, shows, celebrations, and more. With marvellous music and glorious gastronomy to cater to all tastes and cultures, you’ll find here a cordial atmosphere to delight and nourish, and so much more.",
       "date": "Annually in December",
-      "website": "",
-      "imageURL": ""
+      "website": "https://www.oldportofmontreal.com/skating-events",
+      "imageURL": "http://www.go-montreal.com/images/attractions/listings/festivals-events/dj-on-ice.jpg"
     },
 
 ]
