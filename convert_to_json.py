@@ -23,6 +23,7 @@ data = [
       "website": "https://festivalbachmontreal.com/",
       "imageURL": "http://www.go-montreal.com/images/attractions/listings/festivals-events/montreal-bach-festival.jpg"
     },
+
     {
       "title": "Le Grand Marché de Noël de Montréal",
       "description": "Inspired by the charming Christmas traditions from around the world, this event offers a Christmas market and village with many free outdoor activities. Imagine a fairy-tale setting in the heart of Quartier Latin in downtown Montreal, bustling with life day and night, traditional log cabins, illuminated christmas trees, tasty delights and much more.",
@@ -81,12 +82,52 @@ data = [
     },
 
     {
-      "title": "International Digital Art Biennial"
+      "title": "International Digital Art Biennial",
       "description": "This exhibition offers a reflection on the transition that we must accomplish in this post-pandemic era disrupted both geopolitically and climatically. By taking a look at our time while trying to anticipate the consequences of our past and future decisions, these artists are in a way pathfinders, messengers.",
       "date": "Annually in December",
       "website": "https://www.elektramontreal.ca/biennale2022",
       "imageURL": "http://www.go-montreal.com/images/attractions/listings/festivals-events/bian.jpg"
     },
+
+    {
+      "title": "LUMINOTHÉRAPIE",
+      "description": "This winter, the heart of the city is the place to be, Luminothérapie is here to get you moving and enjoying the outdoors! With an all-new interactive experience on the Esplanade Tranquille skating rink, a series of six colourful installations on Sainte-Catherine St. extending to Phillips Square and original video projections, everyone is invited to take a break and have some fun.",
+      "date": "Annually in December",
+      "website": "https://www.quartierdesspectacles.com/en/",
+      "imageURL": "http://www.go-montreal.com/images/attractions/listings/festivals-events/luminotherapie.jpg"
+    },
+
+    {
+      "title": "Noël sur l'Avenue",
+      "description": "Make the most of the holiday season by participating in festive activities. On the program, the famous Marche de Noël aux flambeaux and the carriole contes et légendes. In addition, Noël dans le parc recreates a small village of yesteryear with many activities and concerts in the heart of the Avenue.",
+      "date": "Annually in December",
+      "website": "https://www.mont-royal.net/",
+      "imageURL": "http://www.go-montreal.com/images/attractions/listings/festivals-events/noel-sur-lavenue.jpg"
+    },
+
+    {
+      "title": "Noël dans le Parc",
+      "description": "The Christmas in the park festival welcomes Montrealers to experience the magic of Christmas village. Visitors will find free entertainment in the form of live music, poetry, bonfires, and many surprises.",
+      "date": "Annually in December",
+      "website": "https://festivalnoel.com/",
+      "imageURL": "http://www.go-montreal.com/images/attractions/listings/festivals-events/noel-dans-le-parc.jpg"
+    },
+
+    {
+      "title": "",
+      "description": "",
+      "date": "Annually in December",
+      "website": "",
+      "imageURL": ""
+    },
+
+    {
+      "title": "",
+      "description": "",
+      "date": "Annually in December",
+      "website": "",
+      "imageURL": ""
+    }
 ]
 
 json_data = json.dumps(data, indent=2)
