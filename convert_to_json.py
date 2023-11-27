@@ -122,12 +122,20 @@ data = [
     },
 
     {
+      "title": "Odyssée",
+      "description": "Downtown Montréal comes to life this holiday season with interactive installations and plenty to do and see in the heart of the city.",
+      "date": "Annually in December",
+      "website": "https://xpmtl.com/",
+      "imageURL": "http://www.go-montreal.com/images/attractions/listings/festivals-events/odyssee.jpg"
+    },
+
+     {
       "title": "",
       "description": "",
       "date": "Annually in December",
       "website": "",
       "imageURL": ""
-    }
+    },
 ]
 
 json_data = json.dumps(data, indent=2)
