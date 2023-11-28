@@ -60,22 +60,30 @@
   "imageURL": "https://seatgeek.com/_next/image?url=https://seatgeek.com/images/performers-landscape/all-elite-wrestling-9efc75/702694/27812/1100x700.jpg&w=1920&q=75&v=2"
 },
 {
-  "title": "",
-  "description": "",
-  "date": "",
-  "price": "",
-  "place": "",
-  "website": "",
-  "imageURL": ""
+  "title": "Cirque du Soleil: Crystal - Montreal",
+  "description": "Tickets",
+  "date": "Thu Dec 21 at 7:30pm",
+  "price": "From $103",
+  "place": "Centre Bell, Montreal, Canada",
+  "website": "https://seatgeek.com/cirque-du-soleil-crystal-tickets/cirque-du-soleil/2023-12-21-7-30-pm/6144149",
+  "imageURL": "https://seatgeek.com/_next/image?url=https://seatgeek.com/images/performers-landscape/cirque-du-soleil-crystal-cd75c3/625101/1100x700.jpg&w=1920&q=75&v=2"
 },
 {
-  "title": "",
-  "description": "",
-  "date": "",
-  "price": "",
-  "place": "",
-  "website": "",
-  "imageURL": ""
+  "title": "Gad Elmaleh",
+  "description": "Tickets",
+  "date": "Wed Dec 11, 2024 at 8:00pm",
+  "price": "From $74",
+  "place": "Centre Bell, Montreal, Canada",
+  "website": "https://seatgeek.com/gad-elmaleh-tickets/comedy/2024-12-11-8-pm/6290784",
+  "imageURL": "https://seatgeek.com/_next/image?url=https://seatgeek.com/images/performers-landscape/gad-elmaleh-658d31/36283/1100x700.jpg&w=1920&q=75&v=2"
+},
+{
+  "title": "Steve Martin and Martin Short",
+  "description": "Tickets",
+  "date": "Thu Nov 30 at 7:30pm",
+  "price": "From $146",
+  "place": "Place des Arts, Montreal, Canada",
+  "website": "https://seatgeek.com/steve-martin-and-martin-short-tickets/comedy/2023-11-30-7-30-pm/6006609",
+  "imageURL": "https://seatgeek.com/_next/image?url=https://seatgeek.com/images/performers-landscape/steve-martin-and-martin-short-26fabc/251600/1100x700.jpg&w=1920&q=75&v=2"
 }
-
 ]
