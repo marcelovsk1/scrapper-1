@@ -24,13 +24,40 @@
   "imageURL": "https://seatgeek.com/_next/image?url=https%3A%2F%2Fseatgeek.com%2Fimages%2Fperformers-landscape%2Ftravis-scott-adf031%2F146225%2F1500x2000.jpg&w=3840&q=75"
 },
 {
-  "title": "",
-  "description": "",
-  "date": "",
-  "price": "",
-  "place": "",
-  "website": "",
-  "imageURL": ""
+  "title": "Mariah Carey",
+  "description": "Tickets",
+  "date": "Wed Nov 29 at 7:30pm",
+  "price": "From $66",
+  "place": "Centre Bell, Montreal, Canada",
+  "website": "https://seatgeek.com/mariah-carey-tickets/montreal-canada-centre-bell-2023-11-29-7-30-pm/concert/6206248",
+  "imageURL": "https://seatgeek.com/_next/image?url=https%3A%2F%2Fseatgeek.com%2Fimages%2Fperformers-landscape%2Fmariah-carey-75d0e0%2F2494%2F1500x2000.jpg&w=3840&q=75"
+},
+{
+  "title": "Formula 1 Grand Prix Canada - 3 Day Pass",
+  "description": "Canadian Grand Prix 2024",
+  "date": "Fri Jun 7, 2024, Time TBD",
+  "price": "From $296",
+  "place": "Gilles Villeneuve Circuit, Montreal, Canada",
+  "website": "https://seatgeek.com/canada-formula-1-grand-prix-tickets/f1/2024-06-07-3-30-am/6082181",
+  "imageURL": "https://seatgeek.com/_next/image?url=https://seatgeek.com/images/performers-landscape/canada-formula-1-grand-prix-bd35f0/773613/1100x700.jpg&w=1920&q=75&v=2"
+},
+{
+  "title": "Detroit Red Wings at Montreal Canadiens",
+  "description": "NHL MATCH",
+  "date": "Sat Dec 2 at 7:00pm",
+  "price": "From $72",
+  "place": "Centre Bell, Montreal, Canada",
+  "website": "https://seatgeek.com/montreal-canadiens-tickets/12-2-2023-montreal-canada-centre-bell/nhl/6076174",
+  "imageURL": "https://seatgeek.com/_next/image?url=https://seatgeek.com/images/performers-landscape/montreal-canadiens-ece857/2125/1100x700.jpg&w=1920&q=75&v=2"
+},
+{
+  "title": "AEW Presents Dynamite/Rampage",
+  "description": "AEW Rampage",
+  "date": "Wed Dec 6 at 7:30pm",
+  "price": "From $35",
+  "place": "Centre Bell, Montreal, Canada",
+  "website": "https://seatgeek.com/all-elite-wrestling-tickets/wrestling/2023-12-06-7-30-pm/6171309",
+  "imageURL": "https://seatgeek.com/_next/image?url=https://seatgeek.com/images/performers-landscape/all-elite-wrestling-9efc75/702694/27812/1100x700.jpg&w=1920&q=75&v=2"
 },
 {
   "title": "",
@@ -50,4 +77,5 @@
   "website": "",
   "imageURL": ""
 }
+
 ]
